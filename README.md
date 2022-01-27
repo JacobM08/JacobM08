@@ -3,14 +3,11 @@
 
 I'm currently a third-year Computer Security student studying at York University!
 
-Languages:
+### Languages:
 
-Java
-
-JavaScript
-
-Python
-
+Java\
+JavaScript\
+Python\
 C
 
 
