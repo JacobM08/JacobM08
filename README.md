@@ -6,8 +6,11 @@ I'm currently a third-year Computer Security student studying at York University
 Languages:
 
 Java
+
 JavaScript
+
 Python
+
 C
 
 
