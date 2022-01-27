@@ -1,6 +1,16 @@
 ### Hello World👋, I'm Jacob Medeiros!
 
 
+I'm currently a third-year Computer Security student studying at York University!
+
+Languages:
+
+Java
+JavaScript
+Python
+C
+
+
 <!--
 **JacobM08/JacobM08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
